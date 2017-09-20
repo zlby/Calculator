@@ -1,0 +1,11 @@
+a=(10.44*356+1.28)/2-1024*1.6;
+b=a*2-a/2;
+c123=a+b*b/5-(a-a*2)/b;
+D = (a+9* b)*(98/b);
+FgH = a +  2.0*c123;
+print(a);
+print(b);
+print(c123);
+print(1+2-3*4/5);
+print(D/2);
+print(FgH);
